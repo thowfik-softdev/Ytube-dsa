@@ -10,7 +10,7 @@ related: ["[[Flow of the Program]]", "[[How Java Works]]", "[[Variables and Type
 
 # 1 · Introduction to Programming
 
-> 📁 Part 1 of 4 in [Ytube dsa/](README.md) · **Next:** [02 — Flow of the Program](02-Flow_Of_Program_Notes.md)
+> 📁 Part 1 of 5 in [Ytube dsa/](README.md) · **Next:** [02 — Flow of the Program](02-Flow_Of_Program_Notes.md)
 
 ## Introduction
 **Programming is instructing a computer to perform a task.** The catch is that a CPU understands only **binary** — 0s and 1s. Writing instructions directly in binary is unbearable for humans, so we invented **programming languages**: human-readable notation that a translator (compiler or interpreter) turns into binary for us.

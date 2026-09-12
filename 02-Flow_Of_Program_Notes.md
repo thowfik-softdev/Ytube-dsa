@@ -10,7 +10,7 @@ related: ["[[Introduction to Programming]]", "[[How Java Works]]", "[[Big-O Intu
 
 # 2 · Flow of the Program
 
-> 📁 Part 2 of 4 in [Ytube dsa/](README.md) · **Prev:** [01 — Introduction to Programming](01-Intro_to_Programming_Notes.md) · **Next:** [03 — How Java Works](03-Introduction_to_Java_Notes.md)
+> 📁 Part 2 of 5 in [Ytube dsa/](README.md) · **Prev:** [01 — Introduction to Programming](01-Intro_to_Programming_Notes.md) · **Next:** [03 — How Java Works](03-Introduction_to_Java_Notes.md)
 
 ## Introduction
 Before you write code, you plan the **flow**: the order of steps, the decisions, the loops. Two tools do this — a **flowchart** (a picture) and **pseudocode** (rough, syntax-free code). Neither runs. Both exist so that the *thinking* is finished before the *typing* starts.

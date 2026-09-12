@@ -10,12 +10,12 @@ related: ["[[How Java Works]]", "[[Introduction to Programming]]", "[[Running a 
 
 # 4 · Your First Java Program
 
-> 📁 Part 4 of 4 in [Ytube dsa/](README.md) · **Prev:** [03 — Introduction to Java](03-Introduction_to_Java_Notes.md)
+> 📁 Part 4 of 5 in [Ytube dsa/](README.md) · **Prev:** [03 — Introduction to Java](03-Introduction_to_Java_Notes.md) · **Next:** [05 — Conditionals, Switch & Loops](05-Conditionals_and_Loops_Notes.md)
 
 ## Introduction
 [03](03-Introduction_to_Java_Notes.md) explained the machinery — `javac`, bytecode, the JVM. This is the first program that actually *uses* it: the rules a `.java` file must obey, every word of `public static void main(String[] args)`, the primitive types, reading input, how Java silently converts between number types — and, at the end, **what the `.class` file the compiler produced actually contains**.
 
-Worked code lives in `src/ytube/first-java-program/Ytube java dsa/src/com/thowfik/`: `Main.java`, `Primitives.java`, `Inputs.java`, `Sum.java`, `TypeCasting.java`. **Every output below is that code actually compiled and run on JDK 21** — including the two places where the lecture's own programs are wrong.
+Worked code lives in the course project at `Ytube java dsa/src/com/thowfik/firstjavaprogram/` *(the snippets below show `package com.thowfik;` — the files have since moved into the `com.thowfik.firstjavaprogram` package)*: `Main.java`, `Primitives.java`, `Inputs.java`, `Sum.java`, `TypeCasting.java`. **Every output below is that code actually compiled and run on JDK 21** — including the two places where the lecture's own programs are wrong.
 
 ## Characteristics of a Java File
 - **Everything lives in a class:** there is no code outside one. A `.java` file *is* a class.
