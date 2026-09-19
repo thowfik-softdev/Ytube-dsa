@@ -12,10 +12,42 @@ Kept **separate from `01-concepts/`** on purpose: those notes map 1:1 to [ROADMA
 | **3** | [03-Introduction_to_Java_Notes.md](03-Introduction_to_Java_Notes.md) | `Introduction_to_Java_Notes.pdf` | `.java` → `.class` → machine code · why Java is platform independent · JDK/JRE/JVM · class loader · interpreter vs JIT |
 | **4** | [04-First_Java_Program_Notes.md](04-First_Java_Program_Notes.md) | `First_Java_Program_Notes.pdf` | Structure of a `.java` file · every word of `main` · the 8 primitives · `Scanner` · type conversion, casting & promotion · what the `.class` file contains |
 | **5** | [05-Conditionals_and_Loops_Notes.md](05-Conditionals_and_Loops_Notes.md) | — *(written from the project code)* | `if` / `else if` ladders · every `switch` form, classic → pattern matching · `for` / `while` / `do-while` / for-each · `break`, `continue`, labels · digit peeling & Fibonacci · what `switch` and loops compile to |
+| **6** | [06-Methods_Notes.md](06-Methods_Notes.md) | `Methods.pdf` | Anatomy of a method · return rules · **pass-by-value** (the interview classic) · scope & shadowing · overloading resolution · varargs · the call stack |
 
-> Each file keeps its **source PDF's name** with a `NN-` prefix, so the numbers give the watch order and the name still points back to the original notes. New lectures continue the sequence: `06-…`, `07-…`
+> Each file keeps its **source PDF's name** with a `NN-` prefix, so the numbers give the watch order and the name still points back to the original notes. New lectures continue the sequence: `07-…`, `08-…`
 
 **Then continue to** [01-concepts/0.1-running-java.md](../01-concepts/0.1-running-java.md) — where the curriculum proper begins.
+
+## 📦 The full package — every concept lecture
+
+Source: the cloned `DSA-Bootcamp-Java/lectures/` reference repo (28 lecture folders, 89 PDFs, 256 Java files). Bootcamp lectures 02–07 are already written up above as notes 01–06. The rest, in order:
+
+| Note | Bootcamp lecture | Status |
+|---|---|---|
+| `07` | 08-arrays (+ ArrayList, 2-D) | ⬜ |
+| `08` | 09-linear search | ⬜ |
+| `09` | 10-binary search (order-agnostic, ceiling/floor, rotated, mountain, 2-D) | ⬜ |
+| `10` | 11-sorting (bubble, selection, insertion, cyclic) | ⬜ |
+| `11` | 12-strings (+ 21-StringBuffer) | ⬜ |
+| `12` | 13-patterns | ⬜ |
+| `13` | 15-complexity (Big-O, recurrences, Master/Akra–Bazzi) | ⬜ |
+| `14` | 14-recursion I — basics, numbers, arrays | ⬜ |
+| `15` | 14-recursion II — subsets, strings, permutations, dice | ⬜ |
+| `16` | 14-recursion III — merge sort, quick sort, backtracking (N-Queens, Sudoku) | ⬜ |
+| `17` | 16-math (number theory, GCD, sieve) + bitwise operators | ⬜ |
+| `18` | 17-oop I — classes, objects, constructors, `this`, `final` | ⬜ |
+| `19` | 17-oop II — inheritance, polymorphism, abstraction, interfaces | ⬜ |
+| `20` | 17-oop III — statics, singleton, generics, exceptions, `Object` methods | ⬜ |
+| `21` | 18-linkedlist (singly, doubly, circular) | ⬜ |
+| `22` | 19-stacks-n-queues | ⬜ |
+| `23` | 20-trees I — binary trees, BST, traversals | ⬜ |
+| `24` | 20-trees II — AVL, segment trees | ⬜ |
+| `25` | 24-heaps + 25-hashmaps (+ Karp–Rabin) | ⬜ |
+| `26` | 26-advance-sorting (count, radix) + 27-huffman + 28-sqrt-decomposition | ⬜ |
+| `27` | 22-large numbers + 23-file handling | ⬜ |
+| `28` | 01-git — Git & GitHub | ⬜ |
+
+Recursion, OOP and trees are split across several notes because each is 7–12 PDFs and 20–67 Java files in the source — one note per would be unreadable. Complexity (note `13`) is deliberately placed **before** recursion, since recurrence relations are what the recursion notes lean on.
 
 ## How to revise with these
 1. First pass: read them top-to-bottom, in order.
