@@ -13,18 +13,18 @@ Kept **separate from `01-concepts/`** on purpose: those notes map 1:1 to [ROADMA
 | **4** | [04-First_Java_Program_Notes.md](04-First_Java_Program_Notes.md) | `First_Java_Program_Notes.pdf` | Structure of a `.java` file · every word of `main` · the 8 primitives · `Scanner` · type conversion, casting & promotion · what the `.class` file contains |
 | **5** | [05-Conditionals_and_Loops_Notes.md](05-Conditionals_and_Loops_Notes.md) | — *(written from the project code)* | `if` / `else if` ladders · every `switch` form, classic → pattern matching · `for` / `while` / `do-while` / for-each · `break`, `continue`, labels · digit peeling & Fibonacci · what `switch` and loops compile to |
 | **6** | [06-Methods_Notes.md](06-Methods_Notes.md) | `Methods.pdf` | Anatomy of a method · return rules · **pass-by-value** (the interview classic) · scope & shadowing · overloading resolution · varargs · the call stack |
+| **7** | [07-Arrays_Notes.md](07-Arrays_Notes.md) | `Arrays.pdf` | Arrays as heap objects · defaults & bounds · `Arrays.toString` · in-place reverse (two pointers) · 2-D and jagged grids · `ArrayList`, capacity vs size, the `remove` trap |
 
-> Each file keeps its **source PDF's name** with a `NN-` prefix, so the numbers give the watch order and the name still points back to the original notes. New lectures continue the sequence: `07-…`, `08-…`
+> Each file keeps its **source PDF's name** with a `NN-` prefix, so the numbers give the watch order and the name still points back to the original notes. New lectures continue the sequence: `08-…`, `09-…`
 
 **Then continue to** [01-concepts/0.1-running-java.md](../01-concepts/0.1-running-java.md) — where the curriculum proper begins.
 
 ## 📦 The full package — every concept lecture
 
-Source: the cloned `DSA-Bootcamp-Java/lectures/` reference repo (28 lecture folders, 89 PDFs, 256 Java files). Bootcamp lectures 02–07 are already written up above as notes 01–06. The rest, in order:
+Source: the cloned `DSA-Bootcamp-Java/lectures/` reference repo (28 lecture folders, 89 PDFs, 256 Java files). Bootcamp lectures 02–08 are already written up above as notes 01–07. The rest, in order:
 
 | Note | Bootcamp lecture | Status |
 |---|---|---|
-| `07` | 08-arrays (+ ArrayList, 2-D) | ⬜ |
 | `08` | 09-linear search | ⬜ |
 | `09` | 10-binary search (order-agnostic, ceiling/floor, rotated, mountain, 2-D) | ⬜ |
 | `10` | 11-sorting (bubble, selection, insertion, cyclic) | ⬜ |

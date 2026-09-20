@@ -10,7 +10,7 @@ related: ["[[First Java Program]]", "[[Flow of the Program]]", "[[Conditionals]]
 
 # 5 · Conditionals, Switch & Loops
 
-> 📁 Part 5 of 6 in [Ytube dsa/](README.md) · **Prev:** [04 — Your First Java Program](04-First_Java_Program_Notes.md) · **Next:** [06 — Methods](06-Methods_Notes.md)
+> 📁 Part 5 of 7 in [Ytube dsa/](README.md) · **Prev:** [04 — Your First Java Program](04-First_Java_Program_Notes.md) · **Next:** [06 — Methods](06-Methods_Notes.md)
 
 ## Introduction
 Until now every program ran top to bottom, once. This lecture adds the two things that make a program actually *think*: **choosing** which code runs (`if`, ternary, `switch`) and **repeating** code until something says stop (`for`, `while`, `do-while`). Together they are the flowchart diamond and the backwards arrow from [02](02-Flow_Of_Program_Notes.md), turned into Java.
