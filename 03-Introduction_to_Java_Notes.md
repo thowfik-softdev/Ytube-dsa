@@ -10,7 +10,7 @@ related: ["[[Introduction to Programming]]", "[[Flow of the Program]]", "[[Runni
 
 # 3 · How Java Actually Works
 
-> 📁 Part 3 of 7 in [Ytube dsa/](README.md) · **Prev:** [02 — Flow of the Program](02-Flow_Of_Program_Notes.md) · **Next:** [04 — Your First Java Program](04-First_Java_Program_Notes.md)
+> 📁 Part 3 of 28 in [Ytube dsa/](README.md) · **Prev:** [02 — Flow of the Program](02-Flow_Of_Program_Notes.md) · **Next:** [04 — Your First Java Program](04-First_Java_Program_Notes.md)
 
 ## Introduction
 You write `.java`, you run `java`, output appears. In between sits the machinery that makes Java **platform independent** — and it is the single most-asked "explain Java" interview question. Three artifacts matter: **source code**, **bytecode**, **machine code**.

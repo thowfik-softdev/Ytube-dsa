@@ -10,7 +10,7 @@ related: ["[[Conditionals and Loops]]", "[[First Java Program]]", "[[Introductio
 
 # 6 · Methods (Functions)
 
-> 📁 Part 6 of 7 in [Ytube dsa/](README.md) · **Prev:** [05 — Conditionals, Switch & Loops](05-Conditionals_and_Loops_Notes.md) · **Next:** [07 — Arrays & ArrayList](07-Arrays_Notes.md)
+> 📁 Part 6 of 28 in [Ytube dsa/](README.md) · **Prev:** [05 — Conditionals, Switch & Loops](05-Conditionals_and_Loops_Notes.md) · **Next:** [07 — Arrays & ArrayList](07-Arrays_Notes.md)
 
 ## Introduction
 A **method** is a named block of code you can call by name, hand values to, and get a value back from. It is the first tool for *not repeating yourself* — and the lecture makes that point brutally: `07-methods/code/src/com/kunal/Main.java` solves "read two numbers and print their sum" by **copy-pasting the same five lines eleven times**.

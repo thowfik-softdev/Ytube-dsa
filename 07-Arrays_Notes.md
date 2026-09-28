@@ -10,7 +10,7 @@ related: ["[[Methods]]", "[[Introduction to Programming]]", "[[Arrays]]", "[[Mat
 
 # 7 · Arrays & ArrayList
 
-> 📁 Part 7 of 7 in [Ytube dsa/](README.md) · **Prev:** [06 — Methods](06-Methods_Notes.md)
+> 📁 Part 7 of 28 in [Ytube dsa/](README.md) · **Prev:** [06 — Methods](06-Methods_Notes.md) · **Next:** [08 — Linear Search](08-Linear_Search_Notes.md)
 
 ## Introduction
 An **array** is a fixed-size, numbered row of values of one type, stored in a single block of memory. The lecture motivates it the same way it motivated methods — by showing the version that doesn't scale:
