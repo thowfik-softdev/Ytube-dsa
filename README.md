@@ -1,8 +1,8 @@
 # Ytube dsa/ — 📺 Notes from the YouTube DSA playlist
 
-**Why this folder exists:** written-up notes for the lectures I watch in the [Kunal Kushwaha Java + DSA playlist](https://www.youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ), one file per lecture PDF, numbered in watch order. This is the layer *underneath* the curriculum: [01-concepts/](../01-concepts/) starts at item **0.1 — Running a Java Program** and teaches you to *write* Java, while these answer **why** programming languages exist at all, **how** you plan a program before typing it, and **what actually happens** between `javac` and your output.
+**Why this folder exists:** written-up notes for the lectures I watch in the [Kunal Kushwaha Java + DSA playlist](https://www.youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ), one file per lecture PDF, numbered in watch order. This is the layer *underneath* the curriculum: `01-concepts/` starts at item **0.1 — Running a Java Program** and teaches you to *write* Java, while these answer **why** programming languages exist at all, **how** you plan a program before typing it, and **what actually happens** between `javac` and your output.
 
-Kept **separate from `01-concepts/`** on purpose: those notes map 1:1 to [ROADMAP.md](../ROADMAP.md) items and are written session-by-session as you learn. These follow the *playlist*, not the roadmap — mixing them in would break that mapping.
+Kept **separate from `01-concepts/`** on purpose: those notes map 1:1 to `ROADMAP.md` items and are written session-by-session as you learn. These follow the *playlist*, not the roadmap — mixing them in would break that mapping.
 
 ## Read in this order
 
@@ -39,7 +39,7 @@ Kept **separate from `01-concepts/`** on purpose: those notes map 1:1 to [ROADMA
 
 > Each file keeps its **source PDF's name** with a `NN-` prefix, so the numbers give the watch order and the name points back to the original notes.
 
-**Then continue to** [01-concepts/0.1-running-java.md](../01-concepts/0.1-running-java.md) — where the curriculum proper begins.
+**Then continue to** `01-concepts/0.1-running-java.md` in the main study vault — where the curriculum proper begins.
 
 ## 📦 Coverage
 
@@ -53,7 +53,7 @@ Recursion, OOP and trees are split across several notes each, because one note p
 3. Files 1 and 3 are the interview-heavy ones (memory model, JVM internals). File 2 is a *thinking habit* — flowchart → pseudocode → code — that pays off on every DSA problem. Files 4 and 5 hold the Java-specific traps — integer division, silent overflow, switch fall-through.
 
 ## Conventions
-- Same note shape as [06-templates/concept.md](../06-templates/concept.md): intuition → runnable Java → JS comparison → misconceptions → interview angles.
+- Same note shape as `06-templates/concept.md`: intuition → runnable Java → JS comparison → misconceptions → interview angles.
 - Every Java snippet was **compiled and run on JDK 21** — the documented outputs are real console output, not assumed.
 - Flowcharts are **mermaid** code blocks, so they render as diagrams in Obsidian and on GitHub.
 - Where the source PDFs are wrong, the note says so in a **⚠️ Correction to the lecture notes** callout rather than repeating the error. Where a note is written from the project code instead of a PDF (file 5), bugs found while running it are called out the same way.

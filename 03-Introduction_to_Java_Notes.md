@@ -180,8 +180,8 @@ flowchart LR
 
 ## Related · Next
 - **Related:** [[Running a Java Program]] (0.1 — the hands-on version of this file) · [[Variables and Types]] (0.2 — where default values show up in practice)
-- **Practice:** compile any file in [src/](../src/), then re-run `java` **without** recompiling after an edit and watch the stale output. Seeing it once fixes misunderstanding #3 permanently.
-- **Next:** [01-concepts/0.1 — Running a Java Program](../01-concepts/0.1-running-java.md) — the curriculum proper begins here.
+- **Practice:** compile any file in `src/`, then re-run `java` **without** recompiling after an edit and watch the stale output. Seeing it once fixes misunderstanding #3 permanently.
+- **Next:** `01-concepts/0.1-running-java.md` — the curriculum proper begins here.
 
 ---
 
